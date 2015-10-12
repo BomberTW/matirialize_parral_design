@@ -1,0 +1,137 @@
+/**
+ * ----------------------------------------------------------------------------------------
+ * General
+ * ----------------------------------------------------------------------------------------
+ */
+/* line 16, ../sass/style.css.scss */
+.margin-bottom {
+  margin-bottom: 30px;
+}
+
+/**
+ * ----------------------------------------------------------------------------------------
+ * Navbar
+ * ----------------------------------------------------------------------------------------
+ */
+/* line 27, ../sass/style.css.scss */
+nav {
+  background-color: #fff;
+}
+
+/* line 32, ../sass/style.css.scss */
+nav a.brand-logo, #nav-mobile > li > a {
+  color: #444444;
+}
+
+/**
+ * ----------------------------------------------------------------------------------------
+ * Main banner
+ * ----------------------------------------------------------------------------------------
+ */
+/* line 42, ../sass/style.css.scss */
+.main-banner {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255, 255, 255, 0.9);
+  width: 100%;
+}
+
+/* line 53, ../sass/style.css.scss */
+.main-banner h1 {
+  color: #4DB6AC;
+  margin: 50px 0;
+}
+
+/* line 59, ../sass/style.css.scss */
+.description-p {
+  color: #fff;
+  font-size: 24px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+
+/**
+ * ----------------------------------------------------------------------------------------
+ * Feature Section
+ * ----------------------------------------------------------------------------------------
+ */
+/* line 73, ../sass/style.css.scss */
+.brown-text i {
+  font-size: 55px;
+  font-color: #795548;
+}
+
+/* line 78, ../sass/style.css.scss */
+.feature-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60px;
+}
+
+/**
+ * ----------------------------------------------------------------------------------------
+ * Slogan Section
+ * ----------------------------------------------------------------------------------------
+ */
+/* line 93, ../sass/style.css.scss */
+.slogan-description {
+  color: #fff;
+  font-size: 22px;
+  font-weight: 300;
+}
+
+/**
+ * ----------------------------------------------------------------------------------------
+ * Conatact Us
+ * ----------------------------------------------------------------------------------------
+ */
+/* line 105, ../sass/style.css.scss */
+.contact-section {
+  margin-bottom: 50px;
+}
+
+/* line 109, ../sass/style.css.scss */
+.contact-section h2 {
+  font-size: 30px;
+  margin-top: 0px;
+}
+
+/* line 114, ../sass/style.css.scss */
+.contact-section p {
+  line-height: 30px;
+}
+
+/**
+ * ----------------------------------------------------------------------------------------
+ * Components
+ * ----------------------------------------------------------------------------------------
+ */
+/* line 124, ../sass/style.css.scss */
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255, 255, 255, 0.9);
+  position: relative;
+  overflow: hidden;
+}
+
+/**
+ * ----------------------------------------------------------------------------------------
+ * Footer
+ * ----------------------------------------------------------------------------------------
+ */
+/* line 139, ../sass/style.css.scss */
+footer.page-footer {
+  margin: 0;
+  background-color: #4DB6AC;
+}
+
+/* line 144, ../sass/style.css.scss */
+.footer-copyright {
+  background-color: rgba(0, 0, 0, 0.3);
+  height: 50px;
+  line-height: 50px;
+}
